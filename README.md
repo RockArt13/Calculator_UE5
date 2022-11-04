@@ -1,6 +1,6 @@
 # Calculator App
 
-Developed with Unreal Engine 5 (beta)
+Developed with Unreal Engine 5 (beta) + blueprints
 
 # #AboutTheProject
 This project was made during one week as a final project for the Game Development Patterns course at Tallinn University.
