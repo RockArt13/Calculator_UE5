@@ -25,7 +25,7 @@ All assets (graphics, sound, and music) are downloaded free from the websites pr
 
 
 # #RunTheGame
-A build still needs to be created.
+Run the tool here: https://rockart13.itch.io/unrealcalc
 
 Find the presentation of the project here: https://www.tlu.ee/~artyom/GDP/Final%20Project%20-%20Artyom%20Grigoryan.mov
 
